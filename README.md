@@ -1,6 +1,6 @@
 [![Gem Version](https://badge.fury.io/rb/donothing.svg)](http://badge.fury.io/rb/donothing)
 
-# DoNothing
+# Do Nothing
 
 This Gem does nothing for you. You can only install or uninstall it.
 
